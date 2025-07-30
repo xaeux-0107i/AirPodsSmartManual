@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/buttom.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Cube.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/earbuds_001.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/emission.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/gold.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/hole.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/lifght_green.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Material_001.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Material_002.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Material_003.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Material_004.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Material_005.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Material_006.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Material_007.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Material_008.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Material_010.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/metal.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/text.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/top_.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Components/Body.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Components/Lid.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Components/BaseComponent.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Components/Box.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/BP_AirPods.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/NewLid/lid.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/NewLid/Material_001.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/NewLid/Material_002.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/NewLid/Material_005.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/NewLid/Material_006.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Components/Pods.uasset"
+			]
+		}
+	]
+}
