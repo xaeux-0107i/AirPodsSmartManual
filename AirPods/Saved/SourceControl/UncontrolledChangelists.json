@@ -5,11 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/summerV/AirPodsSmartManual/AirPods/Content/DescriptionMap.umap",
-				"D:/summerV/AirPodsSmartManual/AirPods/Content/explainWidget/DescriptionUI.uasset",
-				"D:/summerV/AirPodsSmartManual/AirPods/Content/explainMap.umap",
-				"D:/summerV/AirPodsSmartManual/AirPods/Content/Components/Pods.uasset",
-				"D:/summerV/AirPodsSmartManual/AirPods/Content/explainWidget/DescriptionUIUI.uasset",
 				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/buttom.uasset",
 				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/Cube.uasset",
 				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/AirPodsMesh/earbuds_001.uasset",
@@ -40,7 +35,14 @@
 				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/NewLid/Material_005.uasset",
 				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Mesh/NewLid/Material_006.uasset",
 				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Components/Pods.uasset",
-				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Components/ComponentsInterface.uasset"
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/Components/ComponentsInterface.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/explainWidget/DescriptionUI.uasset",
+				"C:/SmartManual/AirPodsSmartManual/AirPods/Content/explainMap.umap",
+				"D:/summerV/AirPodsSmartManual/AirPods/Content/DescriptionMap.umap",
+				"D:/summerV/AirPodsSmartManual/AirPods/Content/explainWidget/DescriptionUI.uasset",
+				"D:/summerV/AirPodsSmartManual/AirPods/Content/explainMap.umap",
+				"D:/summerV/AirPodsSmartManual/AirPods/Content/Components/Pods.uasset",
+				"D:/summerV/AirPodsSmartManual/AirPods/Content/explainWidget/DescriptionUIUI.uasset"
 			]
 		}
 	]
