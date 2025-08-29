@@ -1,8 +1,8 @@
-﻿Log file open, 08/29/25 17:40:13
+﻿Log file open, 08/29/25 20:44:46
 LogTrace: Initializing trace...
 LogTrace: Finished trace initialization.
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-7A8344BD4DA61F2BD917E6867D0284C2
+         Session CrashGUID >   UECC-Windows-C4CE61E94B07D0E0899AC2A023D56BA7
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [D:/summerV/AirPodsSmartManual/AirPods/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogPluginManager: Mounting Engine plugin PlatformCrypto
@@ -61,165 +61,165 @@ LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
 LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
-LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.63ms
+LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 1.17ms
 LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
 LogInit: Object subsystem initialized
 LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
 LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
-LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
-LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
-LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
-LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
-LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
-LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
-[2025.08.29-08.40.13:707][  0]LogInit: Computer: ZEPHYRUS_G16
-[2025.08.29-08.40.13:707][  0]LogInit: User: kdk12
-[2025.08.29-08.40.13:708][  0]LogInit: CPU Page size=4096, Cores=12
-[2025.08.29-08.40.13:708][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2025.08.29-08.40.14:190][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
-[2025.08.29-08.40.14:190][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx) Virtual=45.1GB
-[2025.08.29-08.40.14:190][  0]LogMemory: Platform Memory Stats for WindowsEditor
-[2025.08.29-08.40.14:190][  0]LogMemory: Process Physical Memory: 68.19 MB used, 68.96 MB peak
-[2025.08.29-08.40.14:190][  0]LogMemory: Process Virtual Memory: 148.51 MB used, 148.51 MB peak
-[2025.08.29-08.40.14:190][  0]LogMemory: Physical Memory: 18818.21 MB used,  13046.64 MB free, 31864.86 MB total
-[2025.08.29-08.40.14:190][  0]LogMemory: Virtual Memory: 30200.72 MB used,  16000.14 MB free, 46200.86 MB total
-[2025.08.29-08.40.14:201][  0]LogAssetRegistry: FAssetRegistry took 0.0002 seconds to start up
-[2025.08.29-08.40.14:202][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
-[2025.08.29-08.40.14:202][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2025.08.29-08.40.14:202][  0]LogInit: Using OS detected language ().
-[2025.08.29-08.40.14:202][  0]LogInit: Using OS detected locale ().
-[2025.08.29-08.40.14:203][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.08.29-08.40.14:204][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.08.29-08.40.14:204][  0]LogInit: Using OS detected language ().
-[2025.08.29-08.40.14:204][  0]LogInit: Using OS detected locale ().
-[2025.08.29-08.40.14:204][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.08.29-08.40.14:204][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.08.29-08.40.14:204][  0]LogPakFile: Display: ProjectDir: D:/summerV/AirPodsSmartManual/AirPods/
-[2025.08.29-08.40.14:204][  0]LogIoStore: Display: ==================== IoStore Utils ====================
-[2025.08.29-08.40.14:204][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'D:\summerV\AirPodsSmartManual\AirPods\Saved\Cooked\Windows\AirPods\Metadata\Crypto.json'
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Container signing - DISABLED
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Directory index - ENABLED
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Using compression format 'Oodle'
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Using memory mapping alignment '16384'
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Using compression block size '65536'
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Using compression block alignment '2048'
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Using compression min bytes saved '1024'
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Using compression min percent saved '5'
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Using max partition size '0'
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Not using DDC for compression
-[2025.08.29-08.40.14:206][  0]LogIoStore: Display: Using command list file: 'C:\Users\kdk12\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt'
-[2025.08.29-08.40.14:209][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
-[2025.08.29-08.40.14:210][  0]LogIoStore: Display: Fetched 560 oplog items from Manifest in 0.00 seconds
-[2025.08.29-08.40.14:213][  0]LogIoStore: Display: Parsed 560 oplog items 0.00 seconds, 675 chunks
-[2025.08.29-08.40.14:218][  0]LogIoStore: Display: Using input asset registry: D:/summerV/AirPodsSmartManual/AirPods/Saved/Cooked/Windows/AirPods/Metadata/DevelopmentAssetRegistry.bin
-[2025.08.29-08.40.14:224][  0]LogIoStore: Display: Loaded 122 chunk hashes from AssetRegistry in 0.01 seconds, 122 hashes updated in 0.00 seconds
-[2025.08.29-08.40.14:226][  0]LogIoStore: Display: Searching for cooked assets in folder 'D:\summerV\AirPodsSmartManual\AirPods\Saved\Cooked\Windows'
-[2025.08.29-08.40.14:243][  0]LogIoStore: Display: Found '1236' files
-[2025.08.29-08.40.14:258][  0]LogIoStore: Display: Creating container targets...
-[2025.08.29-08.40.14:262][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
-[2025.08.29-08.40.14:334][  0]LogIoStore: Display: Parsing packages...
-[2025.08.29-08.40.14:334][  0]LogIoStore: Display: Reading package assets...
-[2025.08.29-08.40.14:343][  0]LogIoStore: Display: Packages read 553 files in 0.01 seconds, 858,815 total bytes, 97,371,315 bytes per second
-[2025.08.29-08.40.14:348][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
-[2025.08.29-08.40.14:351][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 172 groups (66 of them didn't need new indices), average uncompressed size 67659 bytes, min 490 bytes, max 965040 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.08.29-08.40.14:396][  0]LogIoStore: Display: AirPods-PCD3D_SM5(PCD3D_SM5): Recompressed 986 shaders as 172 groups. Library size changed from 3074 KB (3.70 : 1 ratio) to 1437 KB (7.91 : 1 ratio), 46.75% of previous.
-[2025.08.29-08.40.14:405][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 198 groups (45 of them didn't need new indices), average uncompressed size 131935 bytes, min 2342 bytes, max 968129 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.08.29-08.40.14:510][  0]LogIoStore: Display: AirPods-PCD3D_SM6(PCD3D_SM6): Recompressed 2031 shaders as 198 groups. Library size changed from 19509 KB (1.31 : 1 ratio) to 13146 KB (1.94 : 1 ratio), 67.38% of previous.
-[2025.08.29-08.40.14:522][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 360 groups (135 of them didn't need new indices), average uncompressed size 155786 bytes, min 249 bytes, max 1047981 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.08.29-08.40.14:604][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3915 shaders as 360 groups. Library size changed from 12618 KB (4.34 : 1 ratio) to 5557 KB (9.86 : 1 ratio), 44.04% of previous.
-[2025.08.29-08.40.14:644][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 542 groups (183 of them didn't need new indices), average uncompressed size 211295 bytes, min 1249 bytes, max 1045875 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.08.29-08.40.15:046][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 7584 shaders as 542 groups. Library size changed from 85599 KB (1.31 : 1 ratio) to 48193 KB (2.32 : 1 ratio), 56.30% of previous.
-[2025.08.29-08.40.15:054][  0]LogIoStore: Display: Shaders processed in 0.71 seconds
-[2025.08.29-08.40.15:055][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=12 (24 cores), MaxSourceBufferMemory=3072MiB
-[2025.08.29-08.40.15:058][  0]LogIoStore: Display: Processing redirects...
-[2025.08.29-08.40.15:058][  0]LogIoStore: Display: Creating disk layout...
-[2025.08.29-08.40.15:058][  0]LogIoStore: Display: Ordered 553 packages using fallback bundle order
-[2025.08.29-08.40.15:076][  0]LogIoStore: Display: Serializing container(s)...
-[2025.08.29-08.40.16:632][  0]LogIoStore: Display: Writing and compressing took 1.33 seconds, writes to disk took 0.47 seconds for 317,197,200 bytes @ 671,746,032 bytes per second.
-[2025.08.29-08.40.16:632][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
-[2025.08.29-08.40.16:634][  0]LogIoStore: Display: AirPods-Windows: Found perfect hashmap for 1950 items.
-[2025.08.29-08.40.16:639][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 245,660 bytes, 34,436,064 bytes per second
-[2025.08.29-08.40.16:639][  0]LogIoStore: Display: Writing tocs... [Physical: 913 MiB, Virtual: 3561 MiB]
-[2025.08.29-08.40.16:639][  0]LogIoStore: Display: 122 / 1,951 hashes were loaded from the hash database, by type:
-[2025.08.29-08.40.16:639][  0]LogIoStore: Display:     BulkData                   122
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: 675 / 1,951 chunks attempted to compress, by type:
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:     ExportBundleData           553 / 553
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:     BulkData                   122 / 122
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:     ScriptObjects              0 / 1
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:     ContainerHeader            0 / 1
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:     ShaderCode                 0 / 1,270
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: Source bytes read:
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:     Zen:                                  0
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:     Loose File:                 927,371,163
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:         ExportBundleData        899,752,534 bytes over 1,106 reads
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:         BulkData                 27,618,629 bytes over 122 reads
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:     Memory:                     141,122,718
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:         ShaderCodeLibrary         1,180,384 bytes over 8 reads
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display:         ShaderCode              139,942,334 bytes over 2,540 reads
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: Calculating stats...
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: Container Summary
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: ==================
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.62                 2.29                 2.29 -
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: AirPods-Windows                                     C/-/-/I/-            1950          239.28               524.60               300.21 (42.77% Oodle)
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: Total                                                                    1951          239.90               526.90               302.50
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: Compression block padding:     1.40 MiB
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: Container Directory Index
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: ==========================
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:640][  0]LogIoStore: Display: Container                                          Size (KiB)
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: global                                                   0.00
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: AirPods-Windows                                         31.53
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Container Patch Report
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: ========================
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: AirPods-Windows                                          1950                0             1950             0.00           298.81
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: PackageStore
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: =============
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: AirPods-Windows                                            19             553               0
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Total                                                      19             553               0
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Input:       553 Packages
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Input:      0.42 GB UExp
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Input:      0.00 GB UAsset
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Input:      0.03 GB UBulk
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Input:     52.49 MB for 902 Global shaders
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Input:      1.88 MB for 159 Shared shaders
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Input:     12.36 MB for 209 Inline shaders
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Output:     5213 Name map entries
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Output:      617 Imported package entries
-[2025.08.29-08.40.16:641][  0]LogIoStore: Display: Output:      312 Packages without imports
-[2025.08.29-08.40.16:644][  0]LogIoStore: Display: Output:        0 Public runtime script objects
-[2025.08.29-08.40.16:644][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
-[2025.08.29-08.40.16:644][  0]LogIoStore: Display: Output:     2.29 MB InitialLoadData
-[2025.08.29-08.40.16:644][  0]LogIoStore: Display: 
-[2025.08.29-08.40.16:652][  0]LogPakFile: Display: UnrealPak executed in 2.446203 seconds
-[2025.08.29-08.40.16:658][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
-[2025.08.29-08.40.16:658][  0]LogExit: Preparing to exit.
-[2025.08.29-08.40.16:660][  0]LogExit: Object subsystem successfully closed.
-[2025.08.29-08.40.16:661][  0]LogPakFile: Destroying PakPlatformFile
-[2025.08.29-08.40.16:664][  0]LogExit: Exiting.
-[2025.08.29-08.40.16:670][  0]Log file closed, 08/29/25 17:40:16
+[2025.08.29-11.44.46:031][  0]LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
+[2025.08.29-11.44.46:031][  0]LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
+[2025.08.29-11.44.46:031][  0]LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
+[2025.08.29-11.44.46:031][  0]LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+[2025.08.29-11.44.46:031][  0]LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.08.29-11.44.46:031][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2025.08.29-11.44.46:031][  0]LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2025.08.29-11.44.46:031][  0]LogInit: Computer: ZEPHYRUS_G16
+[2025.08.29-11.44.46:031][  0]LogInit: User: kdk12
+[2025.08.29-11.44.46:031][  0]LogInit: CPU Page size=4096, Cores=12
+[2025.08.29-11.44.46:031][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.08.29-11.44.46:666][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2025.08.29-11.44.46:667][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx) Virtual=45.1GB
+[2025.08.29-11.44.46:667][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.08.29-11.44.46:667][  0]LogMemory: Process Physical Memory: 68.80 MB used, 69.57 MB peak
+[2025.08.29-11.44.46:667][  0]LogMemory: Process Virtual Memory: 144.98 MB used, 144.98 MB peak
+[2025.08.29-11.44.46:667][  0]LogMemory: Physical Memory: 20320.78 MB used,  11544.07 MB free, 31864.86 MB total
+[2025.08.29-11.44.46:667][  0]LogMemory: Virtual Memory: 32641.82 MB used,  13559.04 MB free, 46200.86 MB total
+[2025.08.29-11.44.46:678][  0]LogAssetRegistry: FAssetRegistry took 0.0002 seconds to start up
+[2025.08.29-11.44.46:679][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
+[2025.08.29-11.44.46:679][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.08.29-11.44.46:679][  0]LogInit: Using OS detected language ().
+[2025.08.29-11.44.46:680][  0]LogInit: Using OS detected locale ().
+[2025.08.29-11.44.46:683][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.08.29-11.44.46:686][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.08.29-11.44.46:686][  0]LogInit: Using OS detected language ().
+[2025.08.29-11.44.46:686][  0]LogInit: Using OS detected locale ().
+[2025.08.29-11.44.46:686][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.08.29-11.44.46:686][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.08.29-11.44.46:686][  0]LogPakFile: Display: ProjectDir: D:/summerV/AirPodsSmartManual/AirPods/
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'D:\summerV\AirPodsSmartManual\AirPods\Saved\Cooked\Windows\AirPods\Metadata\Crypto.json'
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Container signing - DISABLED
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Directory index - ENABLED
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Using compression block size '65536'
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Using compression block alignment '2048'
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Using max partition size '0'
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Not using DDC for compression
+[2025.08.29-11.44.46:687][  0]LogIoStore: Display: Using command list file: 'C:\Users\kdk12\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt'
+[2025.08.29-11.44.46:690][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2025.08.29-11.44.46:691][  0]LogIoStore: Display: Fetched 560 oplog items from Manifest in 0.00 seconds
+[2025.08.29-11.44.46:693][  0]LogIoStore: Display: Parsed 560 oplog items 0.00 seconds, 675 chunks
+[2025.08.29-11.44.46:699][  0]LogIoStore: Display: Using input asset registry: D:/summerV/AirPodsSmartManual/AirPods/Saved/Cooked/Windows/AirPods/Metadata/DevelopmentAssetRegistry.bin
+[2025.08.29-11.44.46:706][  0]LogIoStore: Display: Loaded 122 chunk hashes from AssetRegistry in 0.01 seconds, 122 hashes updated in 0.00 seconds
+[2025.08.29-11.44.46:708][  0]LogIoStore: Display: Searching for cooked assets in folder 'D:\summerV\AirPodsSmartManual\AirPods\Saved\Cooked\Windows'
+[2025.08.29-11.44.46:727][  0]LogIoStore: Display: Found '1236' files
+[2025.08.29-11.44.46:748][  0]LogIoStore: Display: Creating container targets...
+[2025.08.29-11.44.46:753][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
+[2025.08.29-11.44.46:833][  0]LogIoStore: Display: Parsing packages...
+[2025.08.29-11.44.46:833][  0]LogIoStore: Display: Reading package assets...
+[2025.08.29-11.44.46:837][  0]LogIoStore: Display: Packages read 553 files in 0.00 seconds, 859,223 total bytes, 203,299,025 bytes per second
+[2025.08.29-11.44.46:840][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2025.08.29-11.44.46:844][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 172 groups (66 of them didn't need new indices), average uncompressed size 67659 bytes, min 490 bytes, max 965040 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.08.29-11.44.46:879][  0]LogIoStore: Display: AirPods-PCD3D_SM5(PCD3D_SM5): Recompressed 986 shaders as 172 groups. Library size changed from 3074 KB (3.70 : 1 ratio) to 1437 KB (7.91 : 1 ratio), 46.75% of previous.
+[2025.08.29-11.44.46:891][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 198 groups (45 of them didn't need new indices), average uncompressed size 131935 bytes, min 2342 bytes, max 968129 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.08.29-11.44.47:021][  0]LogIoStore: Display: AirPods-PCD3D_SM6(PCD3D_SM6): Recompressed 2031 shaders as 198 groups. Library size changed from 19509 KB (1.31 : 1 ratio) to 13146 KB (1.94 : 1 ratio), 67.38% of previous.
+[2025.08.29-11.44.47:033][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 360 groups (135 of them didn't need new indices), average uncompressed size 155786 bytes, min 249 bytes, max 1047981 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.08.29-11.44.47:133][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3915 shaders as 360 groups. Library size changed from 12618 KB (4.34 : 1 ratio) to 5557 KB (9.86 : 1 ratio), 44.04% of previous.
+[2025.08.29-11.44.47:181][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 542 groups (183 of them didn't need new indices), average uncompressed size 211295 bytes, min 1249 bytes, max 1045875 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.08.29-11.44.47:738][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 7584 shaders as 542 groups. Library size changed from 85599 KB (1.31 : 1 ratio) to 48193 KB (2.32 : 1 ratio), 56.30% of previous.
+[2025.08.29-11.44.47:746][  0]LogIoStore: Display: Shaders processed in 0.91 seconds
+[2025.08.29-11.44.47:749][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=12 (24 cores), MaxSourceBufferMemory=3072MiB
+[2025.08.29-11.44.47:753][  0]LogIoStore: Display: Processing redirects...
+[2025.08.29-11.44.47:753][  0]LogIoStore: Display: Creating disk layout...
+[2025.08.29-11.44.47:754][  0]LogIoStore: Display: Ordered 553 packages using fallback bundle order
+[2025.08.29-11.44.47:774][  0]LogIoStore: Display: Serializing container(s)...
+[2025.08.29-11.44.49:433][  0]LogIoStore: Display: Writing and compressing took 1.42 seconds, writes to disk took 0.58 seconds for 317,201,296 bytes @ 548,153,774 bytes per second.
+[2025.08.29-11.44.49:433][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2025.08.29-11.44.49:434][  0]LogIoStore: Display: AirPods-Windows: Found perfect hashmap for 1950 items.
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 245,660 bytes, 12,979,067 bytes per second
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display: Writing tocs... [Physical: 918 MiB, Virtual: 3562 MiB]
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display: 122 / 1,951 hashes were loaded from the hash database, by type:
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display:     BulkData                   122
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display: 675 / 1,951 chunks attempted to compress, by type:
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display:     ExportBundleData           553 / 553
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display:     BulkData                   122 / 122
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2025.08.29-11.44.49:452][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display:     ShaderCode                 0 / 1,270
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Source bytes read:
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display:     Zen:                                  0
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display:     Loose File:                 927,371,971
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display:         ExportBundleData        899,753,342 bytes over 1,106 reads
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display:         BulkData                 27,618,629 bytes over 122 reads
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display:     Memory:                     141,122,718
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display:         ShaderCodeLibrary         1,180,384 bytes over 8 reads
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display:         ShaderCode              139,942,334 bytes over 2,540 reads
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Calculating stats...
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Container Summary
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ==================
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.62                 2.29                 2.29 -
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: AirPods-Windows                                     C/-/-/I/-            1950          239.28               524.61               300.21 (42.77% Oodle)
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Total                                                                    1951          239.90               526.90               302.51
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Compression block padding:     1.40 MiB
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Container Directory Index
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ==========================
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Container                                          Size (KiB)
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: global                                                   0.00
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: AirPods-Windows                                         31.53
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Container Patch Report
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ========================
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: AirPods-Windows                                          1950                0             1950             0.00           298.81
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: PackageStore
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: =============
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: AirPods-Windows                                            19             553               0
+[2025.08.29-11.44.49:453][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Total                                                      19             553               0
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Input:       553 Packages
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Input:      0.42 GB UExp
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Input:      0.00 GB UAsset
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Input:      0.03 GB UBulk
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Input:     52.49 MB for 902 Global shaders
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Input:      1.88 MB for 159 Shared shaders
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Input:     12.36 MB for 209 Inline shaders
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Output:     5217 Name map entries
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Output:      617 Imported package entries
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Output:      312 Packages without imports
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: Output:     2.29 MB InitialLoadData
+[2025.08.29-11.44.49:454][  0]LogIoStore: Display: 
+[2025.08.29-11.44.49:461][  0]LogPakFile: Display: UnrealPak executed in 2.774482 seconds
+[2025.08.29-11.44.49:477][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2025.08.29-11.44.49:477][  0]LogExit: Preparing to exit.
+[2025.08.29-11.44.49:478][  0]LogExit: Object subsystem successfully closed.
+[2025.08.29-11.44.49:480][  0]LogPakFile: Destroying PakPlatformFile
+[2025.08.29-11.44.49:483][  0]LogExit: Exiting.
+[2025.08.29-11.44.49:488][  0]Log file closed, 08/29/25 20:44:49
